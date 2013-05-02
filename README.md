@@ -7,5 +7,5 @@
 ### EDUCATION ###
 
 ### TECHNICAL EXPERIENCE ###
-
+    
 ### Languages and Technologies ###
