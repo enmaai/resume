@@ -1,4 +1,11 @@
-resume
-======
+## RESUME ##
 
-All about Me
+
+### EMPLOYMENT ###
+
+
+### EDUCATION ###
+
+### TECHNICAL EXPERIENCE ###
+
+### Languages and Technologies ###
