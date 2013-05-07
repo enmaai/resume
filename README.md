@@ -12,19 +12,19 @@
 
 - Responsible for regulating web development, examining web codes, developing the video part of digital products,hotel,travel,ticket business at Taobao(http://www.taobao.com).
 
-######2007.7-2009.9  Senior Front-end Engineer (Full-time),Yahoo(China) UED, Beijing
+##### 2007.7-2009.9  Senior Front-end Engineer (Full-time),Yahoo(China) UED, Beijing
 
 - Developing the web of Yahoo Luke independently;
 - Responsible for the development of Yahoo NCP;
 - Leader of Yahoo UED Front-end Engineering Dept., responsible for team management at Yahoo (China) Front-end.
 
-####2006.4-2007.7  Web Developer (Full-time)  Institute of Computing Technology, Chinese Academy of Sciences, Beijing
+##### 2006.4-2007.7  Web Developer (Full-time)  Institute of Computing Technology, Chinese Academy of Sciences, Beijing
 
 - Responsible for Front-end Engineering of WEBGIS (like Google Map) in VEGAGIS (Geographic Information System like ArcGIS).
 
 ### EDUCATION
 
-####2002.9-2006.7  Northeastern University at Qinhuangdao
+##### 2002.9-2006.7  Northeastern University at Qinhuangdao
 
 Bachelor’s degree in Computer Engineering
 
